@@ -1,0 +1,8 @@
+Continuous time compounded stabilized normalized pseudo-rand wave function generator
+
+variable: osc
+floating variable: modulation (generally 0-3, low and negative values destabilize the equation) 
+y[i] -(+)= random(osc) - osc / 2.0 + (y[i] - (i > 0 && i < numPoints - 1 ? ((y[i-1] + y[i+1]) / 2.) : (i == 0 ? y[i+1] : y[i-1]))) / modulation;
+
+
+the average of y will remain the same however the values will be randomly moved with and from each other. Quite the duality in such a simple function.

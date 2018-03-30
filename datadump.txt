@@ -1,0 +1,93 @@
+Operating on f0
+Left sum of f0, n=2 : 2.0
+Right sum of f0, n=2 : 1.6
+Center sum of f0, n=2 : 3.6
+Trapezoid sum of f0, n=2 : 1.8
+Simpson sum of f0, n=2 : 4.46666666667
+
+Left sum of f0, n=10 : 3.01893151377
+Right sum of f0, n=10 : 2.83992598891
+Center sum of f0, n=10 : 3.23992598891
+Trapezoid sum of f0, n=10 : 2.92942875134
+Simpson sum of f0, n=10 : 3.40825928061
+
+Left sum of f0, n=100 : 3.13137498697
+Right sum of f0, n=100 : 3.11157598692
+Center sum of f0, n=100 : 3.15157598692
+Trapezoid sum of f0, n=100 : 3.12147548695
+Simpson sum of f0, n=100 : 3.16825932026
+
+Left sum of f0, n=1000 : 3.14059048592
+Right sum of f0, n=1000 : 3.13859248692
+Center sum of f0, n=1000 : 3.14259248692
+Trapezoid sum of f0, n=1000 : 3.13959148642
+Simpson sum of f0, n=1000 : 3.14425932026
+
+Left sum of f0, n=10000 : 3.14149263192
+Right sum of f0, n=10000 : 3.14129265192
+Center sum of f0, n=10000 : 3.14169265192
+Trapezoid sum of f0, n=10000 : 3.14139264192
+Simpson sum of f0, n=10000 : 3.14185932026
+
+Operating on f1
+Left sum of f1, n=2 : 0.0
+Right sum of f1, n=2 : 1.1671097953318819
+Center sum of f1, n=2 : 1.1671097953318819
+Trapezoid sum of f1, n=2 : 0.5835548976659409
+Simpson sum of f1, n=2 : 1.7622056363967207
+
+Left sum of f1, n=10 : 0.4150359760201872
+Right sum of f1, n=10 : 0.668575999517352
+Center sum of f1, n=10 : 0.668575999517352
+Trapezoid sum of f1, n=10 : 0.5418059877687698
+Simpson sum of f1, n=10 : 0.7834780936263587
+
+Left sum of f1, n=100 : 0.7499353709993265
+Right sum of f1, n=100 : 0.7669705361634465
+Center sum of f1, n=100 : 0.7669705361634465
+Trapezoid sum of f1, n=100 : 0.7584529535813864
+Simpson sum of f1, n=100 : 0.7735633481503962
+
+Left sum of f1, n=1000 : 0.7716549199066816
+Right sum of f1, n=1000 : 0.7729402490592545
+Center sum of f1, n=1000 : 0.7729402490592545
+Trapezoid sum of f1, n=1000 : 0.7722975844829707
+Simpson sum of f1, n=1000 : 0.773562526975658
+
+Left sum of f1, n=10000 : 0.7733765407893448
+Right sum of f1, n=10000 : 0.7735006681201231
+Center sum of f1, n=10000 : 0.7735006681201231
+Trapezoid sum of f1, n=10000 : 0.7734386044547297
+Simpson sum of f1, n=10000 : 0.7735625268937775
+
+Operating on f2
+Left sum of f2, n=2 : 0.35
+Right sum of f2, n=2 : 0.5490790486715121
+Center sum of f2, n=2 : 0.8990790486715121
+Trapezoid sum of f2, n=2 : 0.44953952433575606
+Simpson sum of f2, n=2 : 1.886056396826879
+
+Left sum of f2, n=10 : 1.0395147638199953
+Right sum of f2, n=10 : 1.2943250606889434
+Center sum of f2, n=10 : 1.3643250606889434
+Trapezoid sum of f2, n=10 : 1.1669199122544693
+Simpson sum of f2, n=10 : 1.6006179819672353
+
+Left sum of f2, n=100 : 1.486857834523518
+Right sum of f2, n=100 : 1.526103911511116
+Center sum of f2, n=100 : 1.533103911511116
+Trapezoid sum of f2, n=100 : 1.5064808730173171
+Simpson sum of f2, n=100 : 1.5582185178749188
+
+Left sum of f2, n=1000 : 1.5466883750969602
+Right sum of f2, n=1000 : 1.5507916616943485
+Center sum of f2, n=1000 : 1.5514916616943486
+Trapezoid sum of f2, n=1000 : 1.5487400183956574
+Simpson sum of f2, n=1000 : 1.5540184749225519
+
+Left sum of f2, n=10000 : 1.5528634741319967
+Right sum of f2, n=10000 : 1.5532756400163967
+Center sum of f2, n=10000 : 1.5533456400163967
+Trapezoid sum of f2, n=10000 : 1.5530695570742057
+Simpson sum of f2, n=10000 : 1.5535984749182576
+
