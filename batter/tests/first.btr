@@ -1,0 +1,8 @@
+
+
+str foo += 'ar';
+int potatos=23;
+
+apple(int a, str b) -> (int, str array(int)) {
+
+}
