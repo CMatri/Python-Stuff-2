@@ -37,5 +37,5 @@ ax.set_zlabel('ug')
 
 #ani = animation.FuncAnimation(fig, update, N, fargs=(data, line), interval=10000/N, blit=False)
 #ani.save('matplot003.gif', writer='imagemagick')
-print(tol(250, 50, 7))
+print(tol(250, 200, 7))
 plt.show()
